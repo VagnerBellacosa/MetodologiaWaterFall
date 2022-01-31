@@ -12,10 +12,6 @@ Foto:
 
  https://cio.com.br/tendencias/desenvolvimento-agil-ou-desenvolvimento-waterfall/
 
-[Facebook](https://cio.com.br/#facebook)[LinkedIn](https://cio.com.br/#linkedin)[Twitter](https://cio.com.br/#twitter)[WhatsApp](https://cio.com.br/#whatsapp)[Flipboard](https://cio.com.br/#flipboard)[Email](https://cio.com.br/#email)
-
-
-
 
 
 Desenvolvimento Ágil ou desenvolvimento Waterfall? É uma velha questão. Os fatos nos dizem que o paradigma Waterfall dominava totalmente o mundo e que, pouco a pouco, foi substituído pelo paradigma Ágil em muitas empresas. Mas seguem existindo outras, especialmente grandes corporações, que permanecem prisioneiras do velho paradigma.
@@ -100,7 +96,7 @@ Permitir uma boa independência entre os dados e os programas, de modo a viabili
 
 
 
- ***
+***
 \*
 **(*) Breogán Gonda *é engenheiro de
 Computação, pesquisador, professor, consultor e presidente da GeneXus S.A*

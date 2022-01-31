@@ -3,13 +3,7 @@ PROJETO](https://www.oitchau.com.br/blog/category/projeto/)
 
 # Como usar o diagrama de Ishikawa para melhorar os processos?
 
-[Aline Mesquita](https://www.oitchau.com.br/blog/author/aline/)
-
-November 25, 2021
-
-[Enviar comentário](https://www.oitchau.com.br/blog/diagrama-de-ishikawa-como-usar/#respond)
-
-6 Minutos de leitura
+[Aline Mesquita](https://www.oitchau.com.br/blog/author/aline/) - November 25, 2021
 
 Você conhece o diagrama de Ishikawa? Pois saiba que ele pode ser a solução para a sua empresa, especialmente no que diz respeito à qualidade e ao controle dela. Ela se volta ao reconhecimento de erros e da raiz deles.
 

@@ -18,10 +18,6 @@ O modelo cascata — também conhecido como processo Waterfall — é uma **meto
 
 Isso quer dizer que é preciso finalizar todas as tarefas de uma etapa para que seja possível passar para a seguinte. Ao cumprir todas as etapas, o resultado será um produto de software funcional, pronto para ser entregue ao cliente.
 
-Newsletter da Trybe
-
-Junte-se a mais de 100.000 pessoas da nossa tribo que recebem conteúdos gratuitos e exclusivos em nossa newsletter semanal!
-
 ## Quais as etapas do modelo cascata?
 
 **O modelo cascata é dividido em cinco etapas**: levantamento de requisitos, projeto, implementação, realização de testes e manutenção do sistema. Veja o que é feito em cada uma a seguir.

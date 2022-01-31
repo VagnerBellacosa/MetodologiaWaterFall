@@ -2,10 +2,8 @@
 
 - [Início](https://blog.locaweb.com.br/) -  [Mentoria Grátis](https://mentoria.locaweb.com.br/) - [Sobre a Locaweb](https://www.locaweb.com.br/sobre-locaweb/)
 
- [Início](https://blog.locaweb.com.br/) 
 
-1.  
-
+1. [Início](https://blog.locaweb.com.br/) 
 2. [Tecnologia](https://blog.locaweb.com.br/categoria/tecnologia/)  
 3. Defendendo o modelo Waterfall de desenvolvimento
 
@@ -21,6 +19,10 @@ Calma, o título não significa o que vocês pensaram, mas por outro lado não e
 
 Quem estudou engenharia de software ou alguma área que envolva o gerenciamento de projetos e ciclo de vida de desenvolvimento de software já esbarrou com a palavra “Waterfall”, literalmente “Cascata”, como a figura abaixo:
 
+![picture-2](http://blog.locaweb.com.br/wp-content/uploads/2009/03/picture-2-300x185.png)
+
+
+
 ![picture-2](https://blog.locaweb.com.br/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif)
 
 Ela descreve o fluxo de desenvolvimento, etapa a etapa, uma de cada vez, gerando o diagrama que deu origem ao nome “waterfall”. Ela apareceu pela primeira vez no estudo [“Gerenciando o desenvolvimento de grandes sistemas de software”](http://www.cs.umd.edu/class/spring2003/cmsc838p/Process/waterfall.pdf), do Dr. Winston W. Royce, em 1970.
@@ -34,6 +36,8 @@ E eu sempre digo que quem ainda pensa assim, deveria voltar a esse estudo origin
 Ou seja, o próprio autor do Waterfall nunca acreditou no Waterfall. Ele mesmo propôs outras interpretações no mesmo estudo, duas páginas para baixo, com diagramas como este:
 
 ![picture-31](https://blog.locaweb.com.br/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif)
+
+![picture-31](http://blog.locaweb.com.br/wp-content/uploads/2009/03/picture-31-300x180.png)
 
 É a raíz do modelo iterativo, com pequenos ciclos (como se fossem mini-projetos, com começo, meio e fim). Metodologias como RUP mais ou menos contemplam isso. Filosofias ágeis definitivamente seguem esse modelo.
 
@@ -49,17 +53,9 @@ Categorias: [TECNOLOGIA](https://blog.locaweb.com.br/categoria/tecnologia/)
 
 Maria Vitória08 de nov, 2017 5 min. de leitura
 
-
-
 ![img](https://blog.locaweb.com.br/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif)
 
 ARTIGOS
-
-### Ransomware: Entenda como ele pode afetar seus arquivos
-
-Maria Vitória23 de ago, 2017 2 min. de leitura
-
-
 
 ![img](https://blog.locaweb.com.br/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif)
 
@@ -69,8 +65,6 @@ DESENVOLVEDORES
 
 Maria Vitória09 de nov, 2016 3 min. de leitura
 
-
-
 ![img](https://blog.locaweb.com.br/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif)
 
 DESENVOLVEDORES
@@ -78,8 +72,6 @@ DESENVOLVEDORES
 ### Descubra os poderes da computação cognitiva
 
 Maria Vitória17 de out, 2016 3 min. de leitura
-
-
 
 ![img](https://blog.locaweb.com.br/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif)
 
@@ -89,7 +81,56 @@ DESENVOLVEDORES
 
 Maria Vitória26 de mar, 2018 2 min. de leitura
 
+![img](https://blog.locaweb.com.br/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif)
 
+DESENVOLVEDORES
+
+### 7 tendências tech que impactarão negócios em 2018
+
+Maria Vitória20 de fev, 2018 5 min. de leitura
+
+![img](https://blog.locaweb.com.br/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif)
+
+ARTIGOS
+
+### Eu robô: quando a ficção vira realidade
+
+Maria Vitória17 de jan, 2018 4 min. de leitura
+
+![img](https://blog.locaweb.com.br/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif)
+
+ARTIGOS
+
+
+![img](https://blog.locaweb.com.br/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif)
+
+![img](https://blog.locaweb.com.br/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif)
+
+ARTIGOS
+
+### Ransomware: Entenda como ele pode afetar seus arquivos
+
+Maria Vitória23 de ago, 2017 2 min. de leitura
+
+![img](https://blog.locaweb.com.br/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif)
+
+DESENVOLVEDORES
+
+### 5 previsões tecnológicas de Steve Wozniak
+
+Maria Vitória09 de nov, 2016 3 min. de leitura
+
+![img](https://blog.locaweb.com.br/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif)
+
+DESENVOLVEDORES
+
+### Descubra os poderes da computação cognitiva
+
+Maria Vitória17 de out, 2016 3 min. de leitura
+
+![img](https://blog.locaweb.com.br/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif)
+
+DESENVOLVEDORES
 
 ![img](https://blog.locaweb.com.br/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif)
 
@@ -100,7 +141,6 @@ DESENVOLVEDORES
 Maria Vitória20 de fev, 2018 5 min. de leitura
 
 
-
 ![img](https://blog.locaweb.com.br/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif)
 
 ARTIGOS
@@ -109,8 +149,6 @@ ARTIGOS
 
 Maria Vitória17 de jan, 2018 4 min. de leitura
 
-
-
 ![img](https://blog.locaweb.com.br/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif)
 
 ARTIGOS
@@ -118,84 +156,3 @@ ARTIGOS
 ### Re:scam – um robô que trola estalionatários
 
 Maria Vitória12 de jan, 2018 3 min. de leitura
-
-
-
-![img](https://blog.locaweb.com.br/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif)
-
-ARTIGOS
-
-### 5 motivos para ler Isaac Asimov
-
-Maria Vitória08 de nov, 2017 5 min. de leitura
-
-
-
-![img](https://blog.locaweb.com.br/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif)
-
-ARTIGOS
-
-### Ransomware: Entenda como ele pode afetar seus arquivos
-
-Maria Vitória23 de ago, 2017 2 min. de leitura
-
-
-
-![img](https://blog.locaweb.com.br/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif)
-
-DESENVOLVEDORES
-
-### 5 previsões tecnológicas de Steve Wozniak
-
-Maria Vitória09 de nov, 2016 3 min. de leitura
-
-
-
-![img](https://blog.locaweb.com.br/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif)
-
-DESENVOLVEDORES
-
-### Descubra os poderes da computação cognitiva
-
-Maria Vitória17 de out, 2016 3 min. de leitura
-
-
-
-![img](https://blog.locaweb.com.br/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif)
-
-DESENVOLVEDORES
-
-### Backup de Servidores, você já fez o seu?
-
-Maria Vitória26 de mar, 2018 2 min. de leitura
-
-
-
-![img](https://blog.locaweb.com.br/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif)
-
-DESENVOLVEDORES
-
-### 7 tendências tech que impactarão negócios em 2018
-
-Maria Vitória20 de fev, 2018 5 min. de leitura
-
-
-
-![img](https://blog.locaweb.com.br/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif)
-
-ARTIGOS
-
-### Eu robô: quando a ficção vira realidade
-
-Maria Vitória17 de jan, 2018 4 min. de leitura
-
-
-
-![img](https://blog.locaweb.com.br/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif)
-
-ARTIGOS
-
-### Re:scam – um robô que trola estalionatários
-
-Maria Vitória12 de jan, 2018 3 min. de leitura
-

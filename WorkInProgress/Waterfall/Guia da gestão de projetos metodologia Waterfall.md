@@ -1,10 +1,4 @@
-[![dicas-de-gestao-de-projetos](https://www.projectbuilder.com.br/wp-content/uploads/2019/01/blog-icon-dicas.png)](https://www.projectbuilder.com.br/blog/category/dicas/) -[Dicas](https://www.projectbuilder.com.br/blog/category/dicas/)
-
-[![img](https://www.projectbuilder.com.br/wp-content/uploads/2019/01/blog-icon-praticas.png)](https://www.projectbuilder.com.br/blog/category/gestao/) -[Gestão](https://www.projectbuilder.com.br/blog/category/gestao/)
-
-[![pessoas-de-gestao-de-projetos](https://www.projectbuilder.com.br/wp-content/uploads/2019/01/blog-icon-pessoas.png)](https://www.projectbuilder.com.br/blog/category/pessoas/) -[Pessoas](https://www.projectbuilder.com.br/blog/category/pessoas/)
-
-[![img](https://www.projectbuilder.com.br/wp-content/uploads/2019/01/blog-icon-projetos.png)](https://www.projectbuilder.com.br/blog/category/projetos/)- [Projetos](https://www.projectbuilder.com.br/blog/category/projetos/)
+[![dicas-de-gestao-de-projetos](https://www.projectbuilder.com.br/wp-content/uploads/2019/01/blog-icon-dicas.png)](https://www.projectbuilder.com.br/blog/category/dicas/) -[Dicas](https://www.projectbuilder.com.br/blog/category/dicas/) [![img](https://www.projectbuilder.com.br/wp-content/uploads/2019/01/blog-icon-praticas.png)](https://www.projectbuilder.com.br/blog/category/gestao/) -[Gestão](https://www.projectbuilder.com.br/blog/category/gestao/) [![pessoas-de-gestao-de-projetos](https://www.projectbuilder.com.br/wp-content/uploads/2019/01/blog-icon-pessoas.png)](https://www.projectbuilder.com.br/blog/category/pessoas/) -[Pessoas](https://www.projectbuilder.com.br/blog/category/pessoas/) [![img](https://www.projectbuilder.com.br/wp-content/uploads/2019/01/blog-icon-projetos.png)](https://www.projectbuilder.com.br/blog/category/projetos/)- [Projetos](https://www.projectbuilder.com.br/blog/category/projetos/)
 
 ![metodologia waterfall](https://www.projectbuilder.com.br/wp-content/themes/yootheme/cache/guia-da-gestao-de-projetos-metodologia-waterfall-a9f924fa.webp)
 
