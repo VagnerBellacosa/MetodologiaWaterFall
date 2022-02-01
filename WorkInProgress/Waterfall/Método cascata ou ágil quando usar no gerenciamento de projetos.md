@@ -1,18 +1,8 @@
-## Blog
 
-Confira nossas novidades e assine nossa newsletter!
-
-[ Veja outros Posts](https://robsoncamargo.com.br/blog)
 
 # Método cascata ou ágil: quando usar no gerenciamento de projetos?
 
--  29/11/19
--  
-
--  Robson Camargo
--  
-
-- [ Gerenciamento de Projetos](https://robsoncamargo.com.br/blog/categoria/gerenciamento-de-projetos)
+-  29/11/19 - Robson Camargo - [ Gerenciamento de Projetos](https://robsoncamargo.com.br/blog/categoria/gerenciamento-de-projetos)
 
 ![Método cascata ou ágil: quando usar no gerenciamento de projetos?](https://robsoncamargo.com.br/files/thumbs/blog_0493-metodo-cascata-1-800x333.png?v=1639597585)
 
