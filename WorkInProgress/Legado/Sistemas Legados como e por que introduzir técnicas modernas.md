@@ -1,8 +1,6 @@
 # Sistemas Legados: como e por que introduzir técnicas modernas
 
-- Isabella Tebet - Desenvolvimento de Software
-
-27/01/2021
+- Isabella Tebet - Desenvolvimento de Software - 27/01/2021
 
 Um dos maiores desafios das empresas na atualidade é modernizar os sistemas legados com novas ferramentas, técnicas e automações, especialmente porque, na era digital, empreendimentos de todos os setores estão cada vez mais dependentes da tecnologia e de recursos automatizados.
 

@@ -1,4 +1,4 @@
- O que é Software Legado?
+#  O que é Software Legado?
 
 <iframe class="td-youtube-player" width="100%" height="560" src="https://www.youtube.com/embed/5m6q63h3XyQ?enablejsapi=1&amp;feature=oembed&amp;wmode=opaque&amp;vq=hd720&amp;&amp;&amp;" frameborder="0" allowfullscreen="" allow="autoplay" id="widget2" style="box-sizing: border-box; display: block; box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 6px 0px; height: 600.75px;"></iframe>
 
@@ -6,19 +6,9 @@
 
 # O que é Software Legado?
 
-Por
+Por:  [canalti](https://www.canalti.com.br/author/canalti/) - 17 de maio de 2018
 
- [canalti](https://www.canalti.com.br/author/canalti/)
-
- \-
-
-17 de maio de 2018
-
-[0](https://www.canalti.com.br/desenvolvimento-de-software/o-que-e-software-legado/#respond)
-
-7107
-
-\- CURSO FULLSTACK 15 CURSOS COMPLETOS -[![curso-fullstack-master-com-certificado-canalti](https://www.canalti.com.br/uploads/curso-fullstack-master-com-certificado-canalti.png)](https://bit.ly/CursoFullstackMasterComCertificadoCanalTI)
+[![curso-fullstack-master-com-certificado-canalti](https://www.canalti.com.br/uploads/curso-fullstack-master-com-certificado-canalti.png)](https://bit.ly/CursoFullstackMasterComCertificadoCanalTI)
 
 **Software Legado** refere-se a um software de computador que foi desenvolvido há muito tempo, mas fornecem serviços essenciais para a empresa.
 
