@@ -2,8 +2,6 @@
 
 ------
 
- 
-
 **O presente livro faz parte de uma série de trabalhos sobre mainframes que estão sendo publicados no Brasil, um dos produtos do Curso de Pós-graduação em Suporte Tecnológico para Mainframe, do Centro Universitário da Cidade do Rio de Janeiro (UniverCidade), em parceria com a IBM Brasil.**
 
 O principal objetivo da série é facilitar o acesso, em português, ao material sobre mainframes, em nível introdutório, abordando os conceitos e fundamentos de disciplinas correlatas ao tema.

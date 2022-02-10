@@ -2,19 +2,13 @@
 - 
 - [Techopedia explica Job Control Language (JCL)](https://pt.theastrologypage.com/job-control-language#menu-3)
 
-
-
 ## Definição - O que significa Job Control Language (JCL)?
 
 A Job Control Language (JCL) é uma linguagem de script executada em um sistema operacional de mainframe IBM. Consiste em instruções de controle que designam um trabalho específico para o sistema operacional.
 
 A JCL fornece um meio de comunicação entre o programa de aplicativo, o sistema operacional e o hardware do sistema.
 
-
-
 ## 
-
-
 
 ## Techopedia explica Job Control Language (JCL)
 

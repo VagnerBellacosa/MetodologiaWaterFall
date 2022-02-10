@@ -4,8 +4,6 @@
 
 **IBM Integration Bus, Versão 10.0.0.18** Sistemas operacionais: AIX, HP-Itanium, Linux, Solaris, Windows, z/OS
 
-
-
 ------
 
 # Customizando a JCL do nó de integração
@@ -37,9 +35,7 @@ Ao atualizar o BIPBPROF (o perfil do nó de integração), as mudanças não est
 
 1. Customize o arquivo BIPEDIT renomeado.
 
-    
-
-   Use as informações que você coletou na:
+       Use as informações que você coletou na:
 
    - [Informações da instalação para um nó de integração](https://www.ibm.com/docs/pt-br/SSMKHH_10.0.0/com.ibm.etools.mft.doc/ae22600_.htm)
    - [Informações do componente para um nó de integração](https://www.ibm.com/docs/pt-br/SSMKHH_10.0.0/com.ibm.etools.mft.doc/ae22620_.htm)
@@ -50,67 +46,35 @@ Ao atualizar o BIPBPROF (o perfil do nó de integração), as mudanças não est
        ALTLIB ACTIVATE APPLICATION(EXEC) DA('COMPONENTDATASET')
    ```
 
-   
-
    em que
 
-    
-
-   'COMPONENTDATASET'
-
-    
+   'COMPONENTDATASET'    
 
    é idêntico a
-
     
-
    ++COMPONENTDATASET++
-
    .
 
    Este comando está ativo para a sessão do ISPF local com a qual ele foi emitido. Se você tiver sessões de tela divididas, as outras sessões não poderão usar este comando. Se você usar a opção 6 do ISPF para emitir o comando, use a opção 3.4 do ISPF para editar o conjunto de dados, que permite usar o comando editar.
 
 3. Edite cada arquivo JCL.
-
     
-
    Execute o arquivo renomeado
-
     
-
    BIPEDIT
-
     
-
    digitando seu nome na linha de comandos (por exemplo,
-
     
-
    MQ01EDBK
 
    ). Ao invés de editar um membro, talvez deseje
-
     
 
-   Visualizá-
-
-   lo até que resolva todos os problemas no programa REXX. Como alternativa, é possível
-
+   Visualizá-lo até que resolva todos os problemas no programa REXX. Como alternativa, é possível
+    
     
 
-   Cancelar
-
-    
-
-   a sessão
-
-    
-
-   Editar
-
-    
-
-   em vez de salvá-la.
+   Editar       em vez de salvá-la.
 
    É necessário configurar um valor para todas as variáveis que estão listadas na JCL; se isso não for feito, a JCL não funcionará corretamente.
 
@@ -121,8 +85,6 @@ Alguns arquivos JCL incluem ++OPTIONS++ para um comando; deve-se substituí-los 
 ```plaintext
      "c ++OPTIONS++ '' all" 
 ```
-
-
 
 em que ' ' representa duas aspas simples.
 

@@ -1,10 +1,6 @@
 [Ir para o conteúdo principal](https://www.hotmart.com/product/aprenda-jcl-para-cobol-batch-mainframe/V57765028W#main)[Ir para o pagamento](https://www.hotmart.com/product/aprenda-jcl-para-cobol-batch-mainframe/V57765028W#payment)[Ir para o rodapé](https://www.hotmart.com/product/aprenda-jcl-para-cobol-batch-mainframe/V57765028W#footer)
 
-
-
 Categorias
-
-
 
 [Entrar](https://www.hotmart.com/auth/login?redirect_uri=https://www.hotmart.com/product/aprenda-jcl-para-cobol-batch-mainframe/V57765028W?system=product_page)[Cadastrar](https://www.hotmart.com/)
 
@@ -72,11 +68,7 @@ E aí, o que vai ser:
 
 \- Pagar em perder essa oportunidade?
 
-
-
 O Aprenda COBOL é um movimento da Kyron Desenvolvimento e é um movimento especialista em treinar e formar pessoas em programação COBOL!
-
-
 
 ![img](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+)![Image Icon](https://www.hotmart.com/product/static/images/icons/arrow.svg?w=360)Mostrar mais
 
@@ -174,10 +166,6 @@ O conteúdo deste produto não representa a opinião da Hotmart. Se você vir in
 
 ![Aprenda COBOL](https://static-media.hotmart.com/oawVvirrQmOTQZCviVmr-HSezhk=/140x140/smart/filters:format(webp):background_color(white)/hotmart/product_contents/bd9f0d01-a420-4bbe-ac52-40aa95e17831/logo_aprenda_cobol.png?w=360)
 
-R$ 697,00
-
-ou em 12 x de R$ 67,91 * no cartão
-
 Português
 
 - Garantia de 7 dias
@@ -189,7 +177,5 @@ Português
 Cursos Online e Serviços de Assinatura
 
 Este é um produto digital, você receberá as informações para acessá-lo através do email.
-
-
 
 ![img](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHZpZXdCb3g9IjAgMCA0OCA0OCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4NCjxwYXRoIGQ9Ik0yMy4zNjM5IDlDMjAuMTc0NSA5IDE2Ljg3NCA5LjUxOTE5IDE0LjYxMTggMTAuODkxM0MxMC45NDAzIDEzLjE1MzUgOS44NjQ4NSAxNy41NjY3IDEwLjAxMzIgMjEuNjQ2MUMxMC4xMjQ1IDI1LjE2OTIgMTEuMDUxNiAyOC45NTE5IDEzLjU3MzQgMzEuNTQ3OEMxNS45NDY4IDM0LjAzMjUgMjAuODQyMSAzNS4xNDUxIDI0LjIxNjggMzUuMTQ1MUMyNC4zNjUyIDM1LjE0NTEgMjQuNTEzNSAzNS4yNTYzIDI0LjUxMzUgMzUuNDQxOFYzOS4wMDJDMjQuNTEzNSAzOS4zMzU3IDI0Ljc3MzEgMzkuNjMyNCAyNS4xNDQgMzkuNjMyNEMyNS4xODExIDM5LjYzMjQgMjUuMTgxMSAzOS42MzI0IDI1LjIxODEgMzkuNjMyNEMyNS4zNjY1IDM5LjYzMjQgMjUuNDc3NyAzOS41NTgyIDI1LjU1MTkgMzkuNDg0MUMyNy4yMjA3IDM4LjAzNzcgMjguOTI2NyAzNi41NTQzIDMwLjU1ODQgMzUuMDcwOUMzMi4xMTYgMzMuNjI0NiAzMy44OTYxIDMyLjE0MTIgMzUuMDgyOCAzMC4zOTgyQzM3LjY0MTcgMjYuNzI2NyAzOC4wNDk2IDIxLjU3MTkgMzcuMTk2NyAxNy4yN0MzNi4zODA4IDEzLjE1MzUgMzMuNDUxMSAxMC40NDYzIDI5LjM3MTcgOS41OTMzNkMyNy42Mjg3IDkuMjIyNTEgMjUuNTE0OCA5IDIzLjM2MzkgOVoiIGZpbGw9IndoaXRlIi8+DQo8L3N2Zz4NCg==)
