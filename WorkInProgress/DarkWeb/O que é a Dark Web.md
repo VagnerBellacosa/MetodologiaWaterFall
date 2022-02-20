@@ -1,7 +1,5 @@
 [![Avast](https://static3.avast.com/10001944/web/i/logo/avast-logo-default.svg)](https://www.avast.com/pt-br/index)
 
-
-
 [Academy](https://www.avast.com/pt-br/c-academy)
 
 - [Uso doméstico](https://www.avast.com/pt-br/index)
@@ -9,16 +7,8 @@
 - [Para parceiros](https://www.avast.com/pt-br/partners)
 
 - [Quem somos](https://www.avast.com/pt-br/about)
-- Blogs 
-- Brasil 
-
-- Segurança 
-- Privacidade 
-- Desempenho 
 
 [Avast Academy](https://www.avast.com/pt-br/c-academy)[Segurança](https://www.avast.com/pt-br/c-category-security)[Outras ameaças](https://www.avast.com/pt-br/c-topic-other-threats)O que é a dark web
-
-
 
 [ OUTRAS AMEAÇAS](https://www.avast.com/pt-br/c-topic-other-threats)
 
@@ -40,8 +30,6 @@ Este artigo contém:
 - [Como acessar a dark web](https://www.avast.com/pt-br/c-dark-web#topic-6)
 - [Mecanismos de pesquisa da dark web](https://www.avast.com/pt-br/c-dark-web#topic-7)
 - [Mantendo você e seus dados fora da dark web](https://www.avast.com/pt-br/c-dark-web#topic-8)
-
-
 
 Ao contrário da Idade das Trevas, a dark web não é chamada de "dark" por causa da falta de informação ou conhecimento — na verdade, ela está repleta de comércio e recursos. Mas a dark internet também foi projetada para fornecer anonimato, mantendo a comunicação privada por meio de criptografia e roteamento de conteúdo por meio de vários servidores. 
 
@@ -113,14 +101,6 @@ Se acontecer de você ser uma vítima, certifique-se de relatar o roubo de ident
 
 Para proteção contínua e rígida, recomendamos o [Avast BreachGuard](https://www.avast.com/pt-br/breachguard), que monitora a dark web em busca de violações de dados 24 horas por dia. Se uma violação for detectada, o BreachGuard vai notificá-lo imediatamente e ajudá-lo a tomar as medidas necessárias para proteger seus dados imediatamente.
 
-
-
-[ADQUIRIR O AVAST BREACHGUARD](https://www.avast.com/pt-br/breachguard)
-
-Adquira para [Mac](https://www.avast.com/pt-br/breachguard)
-
-
-
 A dark web pode prometer anonimato, mas as identidades nem sempre são tão protegidas como você espera. O FBI tenta agir rapidamente para retirar sites que oferecem drogas ilegais e pornografia infantil, e a agência é rápida em tomar medidas legais contra os envolvidos. Na verdade, os agentes duplos do FBI às vezes executam esses sites eles próprios e introduzem malware para descobrir as identidades reais de outros usuários da dark web. 
 
 Se o FBI pode usar esses truques para revelar identidades verdadeiras encerradas no anonimato, você pode ter certeza de que eles não são os únicos.
@@ -179,27 +159,12 @@ Mas mesmo que você nunca planeje visitar, [suas credenciais de login e outros d
 
 [Avast BreachGuard](https://www.avast.com/pt-br/breachguard) — que varre a dark web em busca de informações pessoais vazadas — vai avisá-lo caso seus dados cheguem à dark web. BreachGuard vai ajudá-lo a proteger você e seus dados, garantindo que não continue a usar credenciais comprometidas. A dark web pode ser desconhecida e arriscada, mas é uma parte única da internet, e saber mais sobre ela torna você um surfista da web melhor, mais instruído e mais seguro.
 
-
-
-[ADQUIRIR O AVAST BREACHGUARD](https://www.avast.com/pt-br/breachguard)
-
-Adquira para [Mac](https://www.avast.com/pt-br/breachguard)
-
-
-
 ![Author](https://academy.avast.com/hubfs/Avast/Academy/assets/i/helpers/avast-logo-sign.svg)
 
 por **Brittany Nelson** em Dezembro 18, 2020
 Atualizado em Julho 30, 2021
 
 [DISPOSITIVO MÓVEL](https://www.avast.com/pt-br/c-tag-mobile) [DESKTOP](https://www.avast.com/pt-br/c-tag-desktop)
-
-
-
-
-
-
-
 
 
 #### Últimos artigos sobre Segurança
@@ -295,13 +260,6 @@ Atualizado em Julho 30, 2021
 [![img](https://academy.avast.com/hubfs/New_Avast_Academy/How%20to%20stop%20spam%20text%20messages%20%28SMS%29%20%28Academy%29/How-to-stop-spam-text-messages-Thumb.jpg)Como impedir spam por SMS](https://www.avast.com/pt-br/c-how-to-stop-spam-text-messages)
 
 [![img](https://academy.avast.com/hubfs/New_Avast_Academy/What%20is%20a%20dark%20web%20scan%20and%20should%20you%20use%20one%20%28Academy%29/What-is-a-dark-web-scan-Thumb.jpg)Tudo que você precisa saber sobre escaneamento da dark web](https://www.avast.com/pt-br/c-dark-web-scan)
-
-
-
-- 
-- 
-- 
-- 
 
 ### Uso Doméstico
 

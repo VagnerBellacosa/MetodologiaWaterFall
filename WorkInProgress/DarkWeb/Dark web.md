@@ -12,8 +12,6 @@ As Darknets que constituem a dark web incluem pequenas redes friend-to-friend [P
 
 ## Índice
 
-
-
 - [1Terminologia](https://pt.wikipedia.org/wiki/Dark_web#Terminologia)
 - [2Domínio](https://pt.wikipedia.org/wiki/Dark_web#Domínio)
 - 3Definição
@@ -222,4 +220,4 @@ Falhas na alocação de recursos da Internet devido às tendências caóticas de
 - [Arquitetura da internet](https://pt.wikipedia.org/wiki/Categoria:Arquitetura_da_internet)
 - [Temas do cyberpunk](https://pt.wikipedia.org/wiki/Categoria:Temas_do_cyberpunk)
 
-- Esta página foi editada pela ú
+- Esta página foi editada pela 

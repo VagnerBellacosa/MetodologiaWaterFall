@@ -2,21 +2,13 @@
 
 **15/02/2021** às 23:00
 
-**4 min** de leitura
-
 ![Imagem de: Deep web e dark web: qual é a diferença e como acessar?](https://tm.ibxk.com.br/2021/02/12/12193902700380.jpg?ims=1120x420)
 
 Imagem: Pexels
 
 [![Avatar do autor](https://www.tecmundo.com.br/desktop/assets/static/avatar-editor.svg)](https://www.tecmundo.com.br/autor/1145-maycow-de-lima-toledo)
 
-[Maycow de Lima Toledo](https://www.tecmundo.com.br/autor/1145-maycow-de-lima-toledo)
-
-via [nexperts](https://nexperts.co/)
-
-459 Compartilharam
-
-18 Comentários
+[Maycow de Lima Toledo](https://www.tecmundo.com.br/autor/1145-maycow-de-lima-toledo) via [nexperts](https://nexperts.co/)
 
 Talvez você já tenha ouvido falar do mercado Silk Road (ou a rota da seda, em tradução livre), certo? Este foi um site da dark web no qual funcionava uma espécie de mercado livre mundial do crime. Em 2013, as autoridades federais dos Estados Unidos derrubaram o site, suspenderam o domínio utilizado e prenderam [Ross Willian Ulbricht, o fundador do Silk Road](https://www.tecmundo.com.br/crime-virtual/117294-fundador-silk-road-mercado-negro-deep-web-cumprira-prisao-perpetua.htm).
 

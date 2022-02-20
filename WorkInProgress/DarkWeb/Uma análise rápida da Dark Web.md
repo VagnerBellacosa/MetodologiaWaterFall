@@ -1,28 +1,14 @@
 [Blog AVG Signal](https://www.avg.com/pt/signal)[Segurança](https://www.avg.com/pt/signal/topic/signal-security)[Dicas](https://www.avg.com/pt/signal/topic/security-tips)Uma análise rápida da Dark Web
 
-
-
 [ DICAS ](https://www.avg.com/pt/signal/topic/security-tips)
 
 # Uma análise rápida da Dark Web
 
 A Dark Web. Isso soa assustador? Essas duas pequenas palavras provocam um calafrio sinistro na sua espinha? Você sabe *por que* se sente assim? 
 
-
-
 ![What_is_the_Dark_Web_and_What_is_it_Used_For-Hero](https://signal.avg.com/hubfs/Blog_Content/Avg/Signal/AVG%20Signal%20Images/A%20Brief%20Exploration%20of%20the%20Dark%20Web/What_is_the_Dark_Web_and_What_is_it_Used_For-Hero.jpg)
 
-
-
-
-
-
-
-
-
 A Dark Web é conhecida como um paraíso para atividades ilegais, mas muitas pessoas parecem bem felizes em manter uma distância, então que outras finalidades ela tem e o que é exatamente?Este artigo esclarecerá um pouco a Dark Web e descreverá seus muitos usos.
-
-Este artigo contém:
 
 Este artigo contém:
 

@@ -10,10 +10,6 @@ Deep Web e Dark Web são termos que representam as camadas mais profundas e dif�
 
 Provavelmente você já ouviu falar sobre a Deep Web ou a Dark Web, e imagina que seja uma reunião de coisas estranhas e ilegais na internet, mas não saberia dizer o que exatamente esses termos significam, não é?
 
-
-
-
-
 Veja a seguir o que é e quais as diferenças entre os dois.
 
 **[+ O gestor de fundo global de criptoativos Gustavo Cunha explica como diversificar seus investimento em ativos de alto risco, em 2022](https://aulainaugural-a.fintrender.com.br/?utm_source=ISTOEDINHEIRO&utm_medium=link_dinamico_versao-a&utm_campaign=aula_inaugural_display&utm_term=MADNET_FOONE_FINTRENDER_AULA01)**
@@ -29,10 +25,6 @@ Se você imaginar um iceberg, a parte visível do bloco de gelo é a internet co
 A Deep Web seria o corpo submerso deste iceberg.
 
 **[+ Três aulas disponíveis: economista mostra como investir em um ano de eleições](https://lp.edpedia.com.br/live-pg/?utm_source=Istoé+Dinheiro&utm_medium=NL&utm_campaign=Lucre+em+qualquer+cenário)**
-
-
-
-
 
 Nela estão reunidos serviços ilegais, considerados errados pela legislação, mas também estão bancos de dados sigilosos, redes de computadores de universidades, empresas e organizações públicas, arquivos jurídicos, mensagens de redes sociais, entre outros dados que precisam de proteção e devem estar longe do alcance de hackers.
 

@@ -1,5 +1,5 @@
 
-[![Serasa Ensina](https://www.serasa.com.br/ensina/wp-content/themes/ensina-wp-theme-v3/assets/images/serasa-ensina-white.svg)](https://www.serasa.com.br/ensina)
+[![Serasa Ensina](https://www.serasa.com.br/ensina/wp-content/themes/ensina-wp-theme-v3/assets/images/seras-ensina-white.svg)](https://www.serasa.com.br/ensina)
 
 ![Serasa Ensina](https://www.serasa.com.br/ensina/wp-content/themes/ensina-wp-theme-v3/assets/images/search.png)
 
@@ -19,14 +19,6 @@ A internet é um universo muito maior de que a maioria de nós imagina. E existe
 
 ### SEU NOME PODE ESTAR NO LUGAR MAIS PERIGOSO DA INTERNET
 
-Descubra grátis se seu e-mail vazou na Dark Web.
-
-
-
-DESCUBRA GRÁTIS
-
-
-
 ## Como a internet é dividida?
 
 Uma frase muito utilizada para exemplificar essa divisão é: “Se a rede mundial de computadores fosse um iceberg, a Deep Web seria a parte imersa no oceano”.
@@ -44,8 +36,6 @@ Sites secretos, que não aparecem nas páginas de buscas, sendo invisíveis para
 A Dark é o nome dado para a parte obscura da Deep Web. Por não ser um lugar controlado, é onde normalmente são encontrados conteúdos ilícitos, como bens roubados, armas, drogas, etc.
 
 É da Dark Web que devemos ter medo, pois existem muitos cibercriminosos que podem conseguir acessar os dados armazenados na Deep.
-
-
 
 ## Risco de fraude
 
@@ -89,8 +79,6 @@ Não use a mesma senha para redes sociais, e-mail, computador. Se descobrirem a 
 
 Quantos anos faz que sua senha do Facebook é mesma? Troque de tempos em tempos todas suas senhas das redes sociais e e-mail. Isso ajuda a se proteger.
 
-
-
 ## O que mais posso fazer?
 
 Agora o [Serasa Antifraude](https://www.serasaconsumidor.com.br/antifraude/) monitora seus dados 24h por dia até na Dark Web. O serviço monitora se seu e-mail vazou na internet e notifica você para tomar providências.
@@ -107,45 +95,33 @@ Não perca tempo e cuide dos seus dados, pois nosso nome é bem mais precioso qu
 
 [CONHEÇA OS PLANOS](https://www.serasa.com.br/antifraude/checkout/PREMIUM_ANUAL?utm_source=ensina&utm_medium=box-saf&utm_campaign=txt)
 
-
-
 [![Dark Web: O Que É? Como Se Proteger?](https://www.serasaconsumidor.com.br/ensina/wp-content/uploads/2019/07/17153700/Banner-Ensina_300x250px_LNO.png)](https://www.serasa.com.br/limpa-nome/?v=true&vp=limpa-nome&vpth=%2Flimpa-nome%2F&vt=Voltar&vru=%2Flimpa-nome-online%2Farea-cliente&vll=true&utm_source=ensina&utm_medium=banner-lateral-lno&utm_campaign=txt)
 
 ### Posts relacionados
 
-- 
+-   [Como Economizar Dinheiro](https://www.serasa.com.br/ensina/suas-economias/)
 
-  [Como Economizar Dinheiro](https://www.serasa.com.br/ensina/suas-economias/)
+### [Conta de luz mais cara?](https://www.serasa.com.br/ensina/sem-categoria/conta-de-luz-mais-cara/)
 
-  ### [Conta de luz mais cara?](https://www.serasa.com.br/ensina/sem-categoria/conta-de-luz-mais-cara/)
+Por Augusto Alexandre
 
-  Por Augusto Alexandre
+-   [Como Entender Melhor](https://www.serasa.com.br/ensina/dicas/)
 
-- 
+### [O que é Renda Passiva?](https://www.serasa.com.br/ensina/dicas/o-que-e-renda-passiva/)
+ 
+Por Augusto Alexandre
 
-  [Como Entender Melhor](https://www.serasa.com.br/ensina/dicas/)
+-   [Como Entender Melhor](https://www.serasa.com.br/ensina/dicas/)
 
-  ### [O que é Renda Passiva?](https://www.serasa.com.br/ensina/dicas/o-que-e-renda-passiva/)
+### [O que é CEO? Qual a função desse profissional?](https://www.serasa.com.br/ensina/dicas/o-que-e-ceo-qual-a-funcao-desse-profissional/)
 
-  Por Augusto Alexandre
+Por Augusto Alexandre
 
-- 
+-   [Como Entender Melhor](https://www.serasa.com.br/ensina/dicas/)
 
-  [Como Entender Melhor](https://www.serasa.com.br/ensina/dicas/)
-
-  ### [O que é CEO? Qual a função desse profissional?](https://www.serasa.com.br/ensina/dicas/o-que-e-ceo-qual-a-funcao-desse-profissional/)
-
-  Por Augusto Alexandre
-
-- 
-
-  [Como Entender Melhor](https://www.serasa.com.br/ensina/dicas/)
-
-  ### [Apólice de seguro: o que é e para que serve](https://www.serasa.com.br/ensina/sem-categoria/apolice-de-seguro-o-que-e-e-para-que-serve/)
+### [Apólice de seguro: o que é e para que serve](https://www.serasa.com.br/ensina/sem-categoria/apolice-de-seguro-o-que-e-e-para-que-serve/)
 
   Por Augusto Alexandre
-
-
 
 ![Fernanda Araujo](https://secure.gravatar.com/avatar/8669776c3741703bd16072e30075f940?s=96&d=mm&r=g)
 
@@ -204,18 +180,10 @@ Não perca tempo e cuide dos seus dados, pois nosso nome é bem mais precioso qu
 - [Como manter o nome limpo](https://www.serasa.com.br/ensina/seu-nome-limpo/saiba-como-manter-o-nome-limpo/)
 - [Quais fatores podem sujar o nome](https://www.serasa.com.br/ensina/seu-nome-limpo/saiba-quais-fatores-podem-sujar-o-nome/)
 
-
-
-
-
 - Cadastro Positivo
 - [Serasa Cadastro Positivo](https://www.serasa.com.br/cadastro-positivo/)
 - [Dúvidas sobre Cadastro Positivo](https://www.serasa.com.br/cadastro-positivo/faq)
 - [Como funciona o Cadastro Positivo](https://www.serasa.com.br/ensina/aumentar-score/cadastro-positivo-como-funciona/)
-
-
-
-
 
 - Você Consulta
 - [Serasa Você Consulta](https://www.serasa.com.br/voceconsulta/)
@@ -229,18 +197,13 @@ Não perca tempo e cuide dos seus dados, pois nosso nome é bem mais precioso qu
 - [Alerta de Mudança do Score](https://www.serasa.com.br/antifraude/monitore-seu-score/)
 - [Monitore Dívidas em Seu Nome](https://www.serasa.com.br/antifraude/monitore-dividas-seu-nome/)
 
-
-
-
-
 - Score
 - [Consultar pontuação do Score](https://www.serasa.com.br/score/)
 - [Mitos](https://www.serasa.com.br/ensina/dicas/mentiras-sobre-a-serasa/)
 - [Aumentar o Serasa Score](https://www.serasa.com.br/ensina/aumentar-score/12-dicas-para-aumentar-o-serasa-score/)
 - [Antecedência ajuda no Score](https://www.serasa.com.br/ensina/aumentar-score/antecedencia-ajuda-no-score/)
 - [Score sobe de quando?](https://www.serasa.com.br/ensina/aumentar-score/score-sobe-de-quanto-em-quanto-tempo/)
-- [Pontuação cai ao fazer consulta?](https://www.serasa.com.br/ensina/aumentar-score/pontuacao-cai-ao-fazer-consulta-score/)
-- 
+- [Pontuação cai ao fazer consulta?](https://www.serasa.com.br/ensina/aumentar-score/pontuacao-cai-ao-fazer-consulta-score/) - 
 - [Tudo sobre score](https://www.serasa.com.br/ensina/aumentar-score/ver-o-score-e-gratis/)
 - [Como aumentar seu score](https://www.serasa.com.br/ensina/aumentar-score/como-aumentar-seu-score-de-credito/)
 
@@ -267,18 +230,10 @@ Não perca tempo e cuide dos seus dados, pois nosso nome é bem mais precioso qu
 - [Atualizar meus dados](https://www.serasa.com.br/outros-servicos/atualizacao_de_cadastro/)
 - [Soluções para empresas](https://www.serasaexperian.com.br/)
 
-
-
-
-
 - Atendimento
 - [Pontos de Atendimento](https://www.serasa.com.br/sc-atendimento/agencias/)
 - [Telefones](https://www.serasa.com.br/atendimento)
 - [Central de Ajuda](https://ajuda.serasa.com.br/)
-
-
-
-
 
 - Outros Serviços
 - [Consultar meu CPF](https://www.serasa.com.br/consultar-meu-cpf/)
@@ -287,14 +242,6 @@ Não perca tempo e cuide dos seus dados, pois nosso nome é bem mais precioso qu
 - [Proteger meus documentos](https://ajuda.serasa.com.br/hc/pt-br/articles/360012555551-Perdi-meus-documentos-e-agora-?)
 - [Carta comunicado](https://www.serasa.com.br/carta-serasa-experian/)
 - [Empresas que consultam meu CPF](https://www.serasa.com.br/consultas-ao-meu-cpf/)
-
-- 
--  
-
-- 
--  
-
-- 
 
 © Serasa Experian - São Paulo - Av das Nações Unidas, 14.401 - Torre Sucupira - 24º andar - Chácara Sto. Antônio - São Paulo-SP - CEP 04794-000 - CNPJ 62.173.620/0001-80
 

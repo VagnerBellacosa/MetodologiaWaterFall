@@ -1,18 +1,6 @@
 - [Home](https://itforum.com.br/) >  
 - [Notícias](https://itforum.com.br/todas-materias)
 
-![img](https://itforum.com.br/wp-content/themes/itforum365/assets/img/redes_sociais/facebook.png)
-
-![img](https://itforum.com.br/wp-content/themes/itforum365/assets/img/redes_sociais/linkedin.png)
-
-![img](https://itforum.com.br/wp-content/themes/itforum365/assets/img/redes_sociais/twitter.png)
-
-![img](https://itforum.com.br/wp-content/themes/itforum365/assets/img/redes_sociais/telegram.png)
-
-![img](https://itforum.com.br/wp-content/themes/itforum365/assets/img/redes_sociais/whatsapp.png)
-
-![img](https://itforum.com.br/wp-content/themes/itforum365/assets/img/redes_sociais/msg.png)
-
 # O que é a Dark Web, o que tem lá e como acessá-la
 
 Não é a mesma coisa que a Deep Web. Explicamos neste artigo tudo sobre esse local escondido - e extremamente perigoso - na internet
@@ -86,3 +74,15 @@ Dependendo do que você pretende fazer na Dark Web, alguns usuários recomendam 
 Um aviso antes de prosseguir: depois de acessar a Dark Web, você poderá acessar os sites aos quais os jornais se referem. Isso significa que você pode estar a um clique de distância de sites que vendem drogas, armas e coisas ainda piores. Além disso, há toda uma série de malwares que podem causar danos ao seu dispositivo e dados, portanto há inúmeros riscos. Além disso, os sites da Dark Web diminuem de tempos em tempos, devido à sua natureza sombria.
 
 **E preste atenção ao nosso aviso: este artigo pretende ser um guia para o que é a Dark Web, não um endosso ou incentivo para você começar acessar sites com comportamento ilegal ou imoral.**
+
+![img](https://itforum.com.br/wp-content/themes/itforum365/assets/img/redes_sociais/facebook.png)
+
+![img](https://itforum.com.br/wp-content/themes/itforum365/assets/img/redes_sociais/linkedin.png)
+
+![img](https://itforum.com.br/wp-content/themes/itforum365/assets/img/redes_sociais/twitter.png)
+
+![img](https://itforum.com.br/wp-content/themes/itforum365/assets/img/redes_sociais/telegram.png)
+
+![img](https://itforum.com.br/wp-content/themes/itforum365/assets/img/redes_sociais/whatsapp.png)
+
+![img](https://itforum.com.br/wp-content/themes/itforum365/assets/img/redes_sociais/msg.png)

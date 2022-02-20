@@ -1,5 +1,4 @@
 - [Home](https://canaltech.com.br/)
--  
 
 -  [Segurança](https://canaltech.com.br/seguranca/)
 
