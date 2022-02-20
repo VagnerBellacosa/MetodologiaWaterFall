@@ -16,110 +16,9 @@ https://www.infomoney.com.br/guias/o-que-e-bitcoin/
 
 [*trending_up*O Jeito Barsi de Investir](https://go.acoesgarantem.com.br/jbi10wsim)[*trending_up*Tensão Rússia-Ucrânia](https://www.infomoney.com.br/tudo-sobre/ucrania/)[*trending_up*O que são stablecoins?](https://www.infomoney.com.br/guias/stablecoins/)[*trending_up*Manual dos Dividendos](https://lp.infomoney.com.br/manual-dividendos-guia-definitivo-202202-inscricao?utm_source=infomoney&utm_medium=hot-topic&utm_campaign=202202_infomoney_infoprod-cl_16-02-22_dividendos-guia-definitivo-202202_texto-lateral_lead_na&cid=1944317923.1643463773)[*trending_up*Documentos para declarar IR](https://www.infomoney.com.br/minhas-financas/quais-documentos-sao-necessarios-para-a-declaracao-do-imposto-de-renda-2022/)[*trending_up*Conheça o IM+](https://infomoney.onelink.me/Mmb2/705d28a2)
 
-- Notícias
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-- Cotações
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-- Ebooks e Planilhas
-  - 
-  - 
-- Ferramentas
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-- Especiais
-  - 
-  - 
-  - 
-- Canais
-  - 
-  - 
-  - 
-  - 
-- Redes Sociais
-  - 
-  - 
-  - 
-  - 
-  - 
-- Colunistas
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-- Money Lab
-  - 
-  - 
-  - 
-  - 
-  - 
-- [Xpeed](https://xpeedschool.com.br/)
-- [Expert](https://conteudos.xpi.com.br/?utm_source=infomoney&utm_medium=menu&utm_campaign=xp conteudos&cid=1944317923.1643463773)
-- [Quem Somos](https://www.infomoney.com.br/quem-somos/)
-
-[IBOVESPA112.880 pts-0,57%](https://www.infomoney.com.br/ibovespa)[DÓLARR$ 5,14-0,50%](https://www.infomoney.com.br/dolar)[BITCOINR$ 206.954-1,92%](https://www.infomoney.com.br/bitcoin)[IFIX2.752 pts+0,18%](https://www.infomoney.com.br/ifix)[MGLU3R$ 6,36-4,07%](https://www.infomoney.com.br/mglu3)[PETR4R$ 33,00+0,61%](https://www.infomoney.com.br/petr4)[VALE3R$ 85,83+0,21%](https://www.infomoney.com.br/vale3)[ITUB4R$ 26,17+0,38%](https://www.infomoney.com.br/itub4)[ABEV3R$ 14,77-0,54%](https://www.infomoney.com.br/abev3)[GGBR4R$ 25,54-1,73%](https://www.infomoney.com.br/ggbr4)
-
-[IBOVESPA112.880 pts-0,57%](https://www.infomoney.com.br/ibovespa)[DÓLARR$ 5,14-0,50%](https://www.infomoney.com.br/dolar)[BITCOINR$ 206.954-1,92%](https://www.infomoney.com.br/bitcoin)[IFIX2.752 pts+0,18%](https://www.infomoney.com.br/ifix)[MGLU3R$ 6,36-4,07%](https://www.infomoney.com.br/mglu3)[PETR4R$ 33,00+0,61%](https://www.infomoney.com.br/petr4)[VALE3R$ 85,83+0,21%](https://www.infomoney.com.br/vale3)[ITUB4R$ 26,17+0,38%](https://www.infomoney.com.br/itub4)[ABEV3R$ 14,77-0,54%](https://www.infomoney.com.br/abev3)[GGBR4R$ 25,54-1,73%](https://www.infomoney.com.br/ggbr4)
-
-[Simule Agora](https://www.xpi.com.br/simulador-de-investimento/?utm_source=infomoney&utm_medium=carrossel&utm_campaign=simulador)
-
 # Guia sobre Bitcoin: conheça a origem da primeira criptomoeda do mundo
 
 A história do Bitcoin é cheia de mistérios e até hoje ninguém sabe ao certo quem criou essa criptomoeda, considerada como a primeira a ser minerada no mundo
-
-*reply*
-
-*arrow_forward*Mais sobre
-
-- [Mercados](https://www.infomoney.com.br/mercados/)
-- [Bitcoin](https://www.infomoney.com.br/tudo-sobre/bitcoin/)
-- [Criptomoedas](https://www.infomoney.com.br/tudo-sobre/criptomoedas/)
-- [Guias InfoMoney](https://www.infomoney.com.br/tudo-sobre/guias-infomoney/)
-
-
 
 A história do Bitcoin ([BTC](https://www.infomoney.com.br/cotacoes/bitcoin-btc/)) é repleta de mistérios. A primeira criptomoeda do mundo foi lançada há 13 anos, mas até hoje ninguém sabe a verdadeira identidade da pessoa – ou pessoas – por trás do projeto. Há suspeitas, mas nenhuma capaz de desvendar o enigma.
 
@@ -134,11 +33,7 @@ Neste guia, o InfoMoney explica a origem do Bitcoin; conta como, por que e quand
 ](https://www.infomoney.com.br/guias/o-que-e-bitcoin/#altas-baixas-bitcoin)[• Bitcoin é seguro?
 ](https://www.infomoney.com.br/guias/o-que-e-bitcoin/#bitcoin-e-seguro)[• Como minerar Bitcoin?](https://www.infomoney.com.br/guias/o-que-e-bitcoin/#minerar-bitcoin)
 
-
-
 ## O que é Bitcoin?
-
-
 
 O Bitcoin é uma forma de dinheiro eletrônico *[peer-to peer](https://www.infomoney.com.br/minhas-financas/p2p-lending-investimento-alternativo-em-expansao-promete-lucro-de-ate-380-do-cdi/)* (ponto a ponto) que pode ser transferida sem o intermédio de instituições financeiras.
 
@@ -150,11 +45,7 @@ Como não há uma terceira parte envolvida, mandar Bitcoin de um país para outr
 
 O BTC é digital, descentralizado e não é controlado por governos, empresas ou pessoas. Portanto, nenhuma Casa da Moeda precisa imprimi-lo e nenhum Banco Central tem o poder de controlar o seu preço. Seu valor depende principalmente da lei de oferta e da procura.
 
-
-
 ## Quando surgiu o Bitcoin
-
-
 
 O Bitcoin **surgiu em 31 de outubro de 2008**. Naquele dia, o criador (ou criadores) da criptomoeda, que se esconde sob o pseudônimo de **Satoshi Nakamoto**, enviou um e-mail para uma lista de pessoas interessadas em criptografia. No corpo da mensagem, ele escreveu que vinha trabalhando “em um novo sistema de dinheiro eletrônico totalmente *peer-to-peer*, sem terceiros confiáveis”.
 
@@ -170,11 +61,7 @@ O texto, que em português significa “Chanceler à beira do segundo resgate ao
 
 **Leia também:** [Guia completo sobre como funcionam os investimentos em renda variável](https://www.infomoney.com.br/guias/renda-variavel/)
 
-
-
 ### Crise financeira nos EUA e o Bitcoin
-
-
 
 O *white paper* do Bitcoin foi lançado pouco mais de um mês após o anúncio da falência do Lehman Brothers, que foi o quarto maior banco de investimentos dos Estados Unidos. A quebra do conglomerado financeiro foi o episódio mais emblemático da crise financeira nos EUA, responsável por uma das piores recessões econômicas da história.
 
@@ -190,11 +77,7 @@ O economista Fernando Antônio de Barros Júnior, professor doutor daFaculdade d
 
 Cabe ressaltar, ainda, que as discussões sobre a criação de uma moeda semelhante ao Bitcoin começaram antes de 2008. Segundo o Bitcoin.org, o conceito de criptomoeda foi descrito pela primeira vez em 1998 pelo engenheiro da computação Wei Dai. O artigo de Wei inclusive é citado por Nakamoto em seu *white paper*.
 
-
-
 ## Quem criou o Bitcoin?
-
-
 
 O criador do Bitcoin se esconde atrás do pseudônimo Satoshi Nakamoto. Quem ele é, no entanto, ainda continua um mistério. Algumas pessoas vieram a público afirmando ser o personagem, mas ninguém conseguiu de fato provar nada.
 
@@ -206,11 +89,7 @@ No final de abril de 2011, naquela que foi sua última ‘aparição online’, 
 
 “Eu mudei para outras coisas. Isso (projeto do Bitcoin) está em boas mãos com Gavin e todos”. 
 
-
-
 ### Candidatos a Satoshi Nakamoto
-
-
 
 Ninguém sabe ainda quem criou o Bitcoin. No entanto, existem alguns suspeitos. Na lista, figuram pessoas que colaboraram com o projeto, eram próximas do criador do BTC – pelo menos na vida online – ou foram citados por ele. Há também ricaços capazes de influenciar o mercado com apenas um tweet. Veja alguns dos candidatos:
 
@@ -219,11 +98,7 @@ Ninguém sabe ainda quem criou o Bitcoin. No entanto, existem alguns suspeitos. 
 - Os cientistas da computação Nick Szabo e Adam Back, ambos citados no white paper do Bitcoin, também aparecem na lista. Craig Steven Wright, cientista da computação e empresário que em 2016 disse a jornalistas que era o verdadeiro Nakamoto (sem apresentar provas convincentes), é outro suspeito.
 - Por fim, o CEO da Tesla e da SpaceX, [Elon Musk](https://www.infomoney.com.br/perfil/elon-musk/), também está no páreo. A teoria a respeito de Musk surgiu depois que um funcionário do bilionário, conhecido por influenciar o mercado de criptomoedas com seus tweets, disse que ele poderia ter criado o BTC. O empresário nega.  
 
-
-
 ## Diferença entre Bitcoin e moedas digitais
-
-
 
 A principal diferença entre Bitcoin, demais criptomoedas e Moedas Digitais de Banco Central (CBDC, na sigla em inglês) é a forma de emissão e distribuição.
 
@@ -233,11 +108,7 @@ As moedas digitais de bancos centrais, por outro lado, são emitidas e distribu�
 
 Na prática, portanto, uma moeda digital emitida por um Banco Central é uma cópia virtual do dinheiro corrente do país. Seu valor, portanto, é determinado por uma autoridade monetária. É diferente das criptomoedas descentralizadas, cujos preços variam conforme a lei da oferta e da procura.  
 
-
-
 ## Como comprar Bitcoin
-
-
 
 Há diversas formas de comprar Bitcoin e altcoins. Exchanges, [ETFs de criptomoedas](https://www.infomoney.com.br/guias/o-que-e-etf-de-criptomoeda/) e fundos de investimentos do setor são algumas das opções.
 
@@ -253,11 +124,7 @@ Por fim, é possível também comprar Bitcoin por meio de fundos de investimento
 
 Esses produtos podem ser comprados em corretoras ou diretamente nas gestoras. Há fundos para investidores de varejo, profissionais e qualificados – o cadastro vai depender da opção e do enquadramento. As cotas mínimas variam conforme o fundo e o público-alvo – em alguns é possível investir a partir de R$ 500. Assim como no caso dos ETFs, há algumas taxas, como a de administração.
 
-
-
 ## Maiores altas e baixas do Bitcoin
-
-
 
 O Bitcoin atingiu sua máxima histórica no dia 20 de outubro, superando pela primeira vez os US$ 65 mil. No Brasil, a criptomoeda chegou a ultrapassar os R$ 370 mil em algumas corretoras.
 
@@ -281,17 +148,11 @@ Ao longo de sua breve história, no entanto, a [criptomoeda](https://www.infomon
 
 ** De 1º de janeiro a 20 de outubro*
 
-
-
 ## Bitcoin é seguro?
-
-
 
 Para Mayra Siqueira, gerente geral da Binance no Brasil, o Bitcoin é seguro. Prova disso, falou, é que a blockchain, tecnologia por trás da criptomoeda, nunca foi hackeada ao longo desses 13 anos de história. E isso se deve, continuou Mayra, principalmente ao mecanismo criado por Nakamoto, em especial a dois recursos: o consenso e a imutabilidade.
 
 “O consenso refere-se à capacidade dos nós (computadores ou dispositivos conectados à interface do Bitcoin), dentro de uma rede blockchain distribuída, de concordar com o estado verdadeiro da rede e com a validade das transações. Já a imutabilidade, por outro lado, refere-se à capacidade da blockchain de impedir a alteração de transações que já foram confirmadas”, disse Mayra.
-
-
 
 Na prática, esses dois recursos permitem que transações entre pessoas desconhecidas sejam realizadas sem a necessidade de uma terceira parte – como um banco ou uma empresa de remessa internacional – para garantir a transferência.
 
@@ -299,11 +160,7 @@ Mayra disse que, além de ter tecnologia confiável, o Bitcoin também é um inv
 
 O economista Fernando Antônio de Barros Júnior, professor doutor da USP, também disse que o BTC é um investimento seguro. Entretanto, falou, é um ativo de alto risco. “Por isso, o investidor deve fazer aquilo que é recomendado por qualquer curso básico de educação financeira: ponderar a questão do risco e do retorno e nunca colocar todos os ovos na mesma cesta”.
 
-
-
 ## O que é mineração de Bitcoin
-
-
 
 A mineração de Bitcoin, em resumo, é o nome dado ao processo de validar as transações blockchain e receber, como recompensa, novas criptomoedas. Para entender melhor, leia a comparação abaixo:
 
@@ -315,11 +172,7 @@ Apenas lendo o parágrafo acima, parece muito fácil minerar Bitcoin – mas nã
 
 Mas o detalhe, que deixa a tarefa extremamente difícil, é que há milhares de mineradores tentando resolver a equação ao mesmo tempo. E como há muitos competidores, mais árduo fica encontrar a solução, e mais poder computacional é necessário.
 
-
-
 ### Como minerar Bitcoin
-
-
 
 Logo após a criação do Bitcoin, qualquer um podia facilmente minerar a criptomoeda em casa. Bastava conectar um computador (com uma placa de vídeo razoável) na rede do BTC e mantê-lo ligado para resolver os complexos problemas matemáticos.
 
@@ -423,28 +276,20 @@ Confira mais [guias](https://www.infomoney.com.br/guias/investimentos/) e entend
 [![Infomoney](https://www.infomoney.com.br/wp-content/themes/infomoney/assets/img/logo.svg)](https://www.infomoney.com.br/)
 
 - [Cadastre-se](https://auth.infomoney.com.br/authentication/signin)
--  
 
 - [Quem Somos](https://www.infomoney.com.br/quem-somos/)
--  
 
 - [Media Kit](https://www.infomoney.com.br/wp-content/uploads/2021/07/MoneyLab-Guideline.pdf)
--  
 
 - [Tabela de preços MoneyLab](https://www.infomoney.com.br/wp-content/uploads/2021/07/MoneyLab-Tabela2021.pdf)
--  
 
 - [Cases de sucesso](https://lp.infomoney.com.br/moneylab-cases?cid=1944317923.1643463773)
--  
 
 - [Política de Privacidade](https://www.infomoney.com.br/politica-de-privacidade/)
--  
 
 - [Política de cookies](https://www.infomoney.com.br/politica-de-cookies/)
--  
 
 - Preferências de cookies
--  
 
 - [Fale conosco](https://www.infomoney.com.br/fale-conosco/)
 
@@ -455,3 +300,23 @@ Confira mais [guias](https://www.infomoney.com.br/guias/investimentos/) e entend
 O InfoMoney preza a qualidade da informação e atesta a apuração de todo o conteúdo produzido por sua equipe, ressaltando, no entanto, que não faz qualquer tipo de recomendação de investimento, não se responsabilizando por perdas, danos (diretos, indiretos e incidentais), custos e lucros cessantes.
 
 **IMPORTANTE:** O portal www.infomoney.com.br (o "Portal") é de propriedade da Infostocks Informações e Sistemas Ltda. (CNPJ/MF nº 03.082.929/0001-03) ("Infostocks"), sociedade controlada, indiretamente, pela XP Controle Participações S/A (CNPJ/MF nº 09.163.677/0001-15), sociedade holding que controla as empresas do XP Inc. O XP Inc tem em sua composição empresas que exercem atividades de: corretoras de valoresmobiliários, banco, seguradora, corretora de seguros, análise de investimentos de valores mobiliários, gestoras de recursos de terceiros. Apesar de as Sociedades XP estarem sob controle comum, os executivos responsáveis pela Infostocks são totalmente independentes e as notícias, matérias e opiniões veiculadas no Portal não são, sob qualquer aspecto, direcionadas e/ou influenciadas por relatórios de análise produzidos por áreas técnicas das empresas do XP Inc, nem por decisões comerciais e de negócio de tais sociedades, sendo produzidos de acordo com o juízo de valor e as convicções próprias da equipe interna da Infostocks.
+
+- Notícias - Cotações - Ebooks e Planilhas - Ferramentas  - Especiais  - Canais - Redes Sociais - Colunistas - Money Lab 
+- [Xpeed](https://xpeedschool.com.br/)
+- [Expert](https://conteudos.xpi.com.br/?utm_source=infomoney&utm_medium=menu&utm_campaign=xp conteudos&cid=1944317923.1643463773)
+- [Quem Somos](https://www.infomoney.com.br/quem-somos/)
+
+[IBOVESPA112.880 pts-0,57%](https://www.infomoney.com.br/ibovespa)[DÓLARR$ 5,14-0,50%](https://www.infomoney.com.br/dolar)[BITCOINR$ 206.954-1,92%](https://www.infomoney.com.br/bitcoin)[IFIX2.752 pts+0,18%](https://www.infomoney.com.br/ifix)[MGLU3R$ 6,36-4,07%](https://www.infomoney.com.br/mglu3)[PETR4R$ 33,00+0,61%](https://www.infomoney.com.br/petr4)[VALE3R$ 85,83+0,21%](https://www.infomoney.com.br/vale3)[ITUB4R$ 26,17+0,38%](https://www.infomoney.com.br/itub4)[ABEV3R$ 14,77-0,54%](https://www.infomoney.com.br/abev3)[GGBR4R$ 25,54-1,73%](https://www.infomoney.com.br/ggbr4)
+
+[IBOVESPA112.880 pts-0,57%](https://www.infomoney.com.br/ibovespa)[DÓLARR$ 5,14-0,50%](https://www.infomoney.com.br/dolar)[BITCOINR$ 206.954-1,92%](https://www.infomoney.com.br/bitcoin)[IFIX2.752 pts+0,18%](https://www.infomoney.com.br/ifix)[MGLU3R$ 6,36-4,07%](https://www.infomoney.com.br/mglu3)[PETR4R$ 33,00+0,61%](https://www.infomoney.com.br/petr4)[VALE3R$ 85,83+0,21%](https://www.infomoney.com.br/vale3)[ITUB4R$ 26,17+0,38%](https://www.infomoney.com.br/itub4)[ABEV3R$ 14,77-0,54%](https://www.infomoney.com.br/abev3)[GGBR4R$ 25,54-1,73%](https://www.infomoney.com.br/ggbr4)
+
+[Simule Agora](https://www.xpi.com.br/simulador-de-investimento/?utm_source=infomoney&utm_medium=carrossel&utm_campaign=simulador)
+
+*reply*
+
+*arrow_forward*Mais sobre
+
+- [Mercados](https://www.infomoney.com.br/mercados/)
+- [Bitcoin](https://www.infomoney.com.br/tudo-sobre/bitcoin/)
+- [Criptomoedas](https://www.infomoney.com.br/tudo-sobre/criptomoedas/)
+- [Guias InfoMoney](https://www.infomoney.com.br/tudo-sobre/guias-infomoney/)

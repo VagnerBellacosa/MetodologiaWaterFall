@@ -1,13 +1,5 @@
 https://www.soualter.com.br/bitcoin-o-que-e/
 
-[![Alter](https://www.soualter.com.br/images/alterLogoWhite.png)](https://www.soualter.com.br/)
-
-[Blog](https://blog.soualter.com.br/)[Segurança](https://www.soualter.com.br/seguranca/)[Calculadora](https://www.soualter.com.br/calculadora/)[Criptoback](https://www.soualter.com.br/criptoback/)[Tarifas](https://www.soualter.com.br/tarifas/)[Ajuda](https://suporte.soualter.com.br/hc/pt-br)[o que é bitcoin?](https://www.soualter.com.br/bitcoin-o-que-e/)[Abra sua conta](https://www.soualter.com.br/abra-sua-conta/)
-
-[blog](https://blog.soualter.com.br/)[calculadora](https://www.soualter.com.br/calculadora/)[criptoback](https://www.soualter.com.br/criptoback/)[tarifas](https://www.soualter.com.br/tarifas/)[ajuda](https://suporte.soualter.com.br/hc/pt-br)[o que é bitcoin?](https://www.soualter.com.br/bitcoin-o-que-e/)[abra sua conta](https://www.soualter.com.br/abra-sua-conta/)
-
-![Bitcoin](https://www.soualter.com.br/images/whatIsBitcoin/bitcoinIllustration.png)
-
 # O que é Bitcoin?
 
 Você com certeza já ouviu falar em Bitcoin, não é mesmo? E imagino que tenha dúvidas sobre o que é Bitcoin, sua tecnologia, para que serve e como usá-lo. Então, veio ao lugar certo! Preparamos aqui um super tutorial sobre o Bitcoin, onde vamos ensinar como comprar, vender e também guardar seus bitcoins por longos períodos de maneira segura. Vamos lá?
@@ -179,3 +171,12 @@ Alter Pagamentos Ltda. - CNPJ 29.617.760/0001-24
 <iframe data-product="web_widget" title="No content" tabindex="-1" aria-hidden="true" src="about:blank" style="box-sizing: border-box; border-collapse: collapse; -webkit-font-smoothing: antialiased; color: rgb(11, 35, 93); font-family: Montserrat-Medium, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 0px; height: 0px; border: 0px; position: absolute; top: -9999px;"></iframe>
 
 <iframe title="Abre um widget para que você possa encontrar mais informações" id="launcher" tabindex="0" style="box-sizing: border-box; border-collapse: collapse; -webkit-font-smoothing: antialiased; width: 116px; height: 50px; padding: 0px; margin: 10px 20px; position: fixed; bottom: 0px; overflow: visible; opacity: 1; border: 0px; z-index: 999998; transition-duration: 250ms; transition-timing-function: cubic-bezier(0.645, 0.045, 0.355, 1); transition-property: opacity, top, bottom; right: 0px;"></iframe>
+
+
+[![Alter](https://www.soualter.com.br/images/alterLogoWhite.png)](https://www.soualter.com.br/)
+
+[Blog](https://blog.soualter.com.br/)[Segurança](https://www.soualter.com.br/seguranca/)[Calculadora](https://www.soualter.com.br/calculadora/)[Criptoback](https://www.soualter.com.br/criptoback/)[Tarifas](https://www.soualter.com.br/tarifas/)[Ajuda](https://suporte.soualter.com.br/hc/pt-br)[o que é bitcoin?](https://www.soualter.com.br/bitcoin-o-que-e/)[Abra sua conta](https://www.soualter.com.br/abra-sua-conta/)
+
+[blog](https://blog.soualter.com.br/)[calculadora](https://www.soualter.com.br/calculadora/)[criptoback](https://www.soualter.com.br/criptoback/)[tarifas](https://www.soualter.com.br/tarifas/)[ajuda](https://suporte.soualter.com.br/hc/pt-br)[o que é bitcoin?](https://www.soualter.com.br/bitcoin-o-que-e/)[abra sua conta](https://www.soualter.com.br/abra-sua-conta/)
+
+![Bitcoin](https://www.soualter.com.br/images/whatIsBitcoin/bitcoinIllustration.png)
